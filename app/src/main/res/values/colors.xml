@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textVariantColor">#111827</color>
+
+    <color name="primary">#4F46E5</color>
+    <color name="primary_light">#EEF0FF</color>
+    <color name="background">#F9FAFB</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="border">#E5E7EB</color>
+    <color name="chip_bg">#F3F4F6</color>
+    <color name="disabled_bg">#E5E7EB</color>
+    <color name="disabled_text">#9CA3AF</color>
+    <color name="success">#22C55E</color>
+    <color name="error">#EF4444</color>
+</resources>

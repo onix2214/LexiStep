@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="152dp"
+    android:height="128dp"
+    android:viewportWidth="190"
+    android:viewportHeight="160">
+    <!-- три «ступеньки» -->
+    <path
+        android:pathData="M11,130L59,130A6,6 0,0 1,65 136L65,153L5,153L5,136A6,6 0,0 1,11 130Z"
+        android:fillColor="#EEF0FF" />
+    <path
+        android:pathData="M71,105L119,105A6,6 0,0 1,125 111L125,153L65,153L65,111A6,6 0,0 1,71 105Z"
+        android:fillColor="#C7D2FE" />
+    <path
+        android:pathData="M131,80L179,80A6,6 0,0 1,185 86L185,153L125,153L125,86A6,6 0,0 1,131 80Z"
+        android:fillColor="#4F46E5" />
+    <!-- белая карточка с книгой -->
+    <group
+        android:pivotX="75"
+        android:pivotY="45"
+        android:rotation="-6">
+        <path
+            android:pathData="M51,3L99,3A16,16 0,0 1,115 19L115,67A16,16 0,0 1,99 83L51,83A16,16 0,0 1,35 67L35,19A16,16 0,0 1,51 3Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M75,38C70,34 60,34 54,36L54,56C60,54 70,54 75,60C80,54 90,54 96,56L96,36C90,34 80,34 75,38ZM75,38L75,60"
+            android:strokeWidth="2"
+            android:fillColor="#00000000"
+            android:strokeColor="#4F46E5"
+            android:strokeLineJoin="round" />
+    </group>
+    <!-- искорка -->
+    <path
+        android:pathData="M158,42C158.8,47 160,49 168,51C160,53 158.8,55 158,60C157.2,55 156,53 148,51C156,49 157.2,47 158,42Z"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:strokeColor="#4F46E5"
+        android:strokeLineJoin="round" />
+</vector>

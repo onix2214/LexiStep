@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LexiStep</string>
+
+    <string name="btn_start">Начать</string>
+    <string name="btn_authors">Об авторах</string>
+    <string name="btn_home">На главную</string>
+    <string name="btn_continue">Продолжить</string>
+    <string name="btn_retry">Пройти ещё раз</string>
+    <string name="cd_back">Назад</string>
+    <string name="cd_close">Закрыть</string>
+
+    <string name="home_title">LexiStep</string>
+    <string name="home_subtitle">Учи слова шаг за шагом</string>
+
+    <string name="authors_title">Об авторах</string>
+    <string name="authors_text">Разработчик приложения: Матюхов Станислав, Екатерина Чурбанова студенты ЗИСТ-3. Приложение создано для изучения иностранных слов.</string>
+
+    <string name="language_title">Выбери язык</string>
+    <string name="topic_title">Выбери тему</string>
+    <string name="code_en">EN</string>
+    <string name="code_es">ES</string>
+    <string name="code_de">DE</string>
+    <string name="code_fr">FR</string>
+
+    <string name="lang_en">Английский</string>
+    <string name="lang_es">Испанский</string>
+    <string name="lang_de">Немецкий</string>
+    <string name="lang_fr">Французский</string>
+
+    <string name="topic_basic">Базовая лексика</string>
+    <string name="topic_airport">Аэропорт</string>
+    <string name="topic_transport">Транспорт</string>
+
+    <string name="quiz_progress">Твой прогресс</string>
+    <string name="chose_translation">Выбери перевод</string>
+    <string name="correct">Отлично! Верно!</string>
+    <string name="wrong">Неверно. Правильный ответ: %1$s</string>
+
+    <string name="result_title">Результат</string>
+    <string name="result_percent_label">верных ответов</string>
+    <string name="result_details">Правильных ответов: %1$d из %2$d</string>
+    <string name="result_great">Отличная работа!</string>
+    <string name="result_good">Хорошо!</string>
+    <string name="result_try_again">Попробуй ещё раз!</string>
+</resources>
